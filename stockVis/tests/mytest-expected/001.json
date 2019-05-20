@@ -1,0 +1,50 @@
+{
+  "input": {
+    "adjust": false,
+    "dates": [
+      "2013-01-30",
+      "2019-04-25"
+    ],
+    "log": true,
+    "symb": "SPY"
+  },
+  "output": {
+    "plot": {
+      "src": "[image data sha1: 13873e5e1ff267160c397d679ea526bb15fd53e2]",
+      "width": 631,
+      "height": 400,
+      "coordmap": {
+        "panels": [
+          {
+            "domain": {
+              "left": -61.72,
+              "right": 1631.72,
+              "bottom": 2.1605641611978,
+              "top": 2.48009309785639
+            },
+            "range": {
+              "left": 50.4,
+              "right": 587.8,
+              "bottom": 348.6,
+              "top": 27.8
+            },
+            "log": {
+              "x": null,
+              "y": 10
+            },
+            "mapping": {
+
+            }
+          }
+        ],
+        "dims": {
+          "width": 631,
+          "height": 400
+        }
+      }
+    }
+  },
+  "export": {
+
+  }
+}
